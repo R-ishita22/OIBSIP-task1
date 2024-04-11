@@ -1,2 +1,2 @@
 
-It is a intership project reprository.
+It is a internship project reprository.
